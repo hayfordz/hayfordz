@@ -4,10 +4,10 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🔭 Exploring new technologies for problem solving
-- 🌱 Learning more about Blockchain technology, Smart Contracts and Defi.
+🔭: Exploring new technologies for problem-solving
+- 🌱 Learning more about Data Analytics and Business Intelligence.
 - 🎓 &nbsp; BSc. Chemical Engineering Graduate from KNUST, Ghana
-- ⚡ Fun fact: Anime and Play Station are my favorite leisure activities
+- ⚡ Fun fact: 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
