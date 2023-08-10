@@ -36,6 +36,6 @@
 <p >
 <a href="https://www.linkedin.com/in/hayford-osei-donkor-334b5218a/"><img alt="LinkedIn" src="https://img.shields.io/badge/hayford_osei_donkor-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://twitter.com/Hayford_Codes"><img alt="Twitter" src="https://img.shields.io/badge/twitter-Hayford_Codes-blue?style=flat-square&logo=Twitter"></a>
-<a href="mailto:Hayfordosdonkor@gmail.com">img alt="Email" src="https://img.shields.io/badge/Email-Hayfordosdonkor@gmail.com-blue?style=flat-square&logo=gmail"></a>
-</p>
+<a href="mailto:Hayfordosdonkor@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Hayfordosdonkor@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
+</p>
